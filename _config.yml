@@ -1,0 +1,11 @@
+theme: jekyll-theme-hacker
+title: root💀hassan-sec:~#
+description: Hacking...
+show_downloads: false
+show_repo: false
+
+gems:
+- jekyll-sitemap
+
+whitelist:
+- jekyll-sitemap
