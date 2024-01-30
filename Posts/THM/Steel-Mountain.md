@@ -3,6 +3,7 @@
 
 - running a scan to know what is going on on our targets network
 ## Scan results
+
 ```bash
 ┌──(kali㉿kali)-[~]
 └─$ nmap -A 10.10.70.217
