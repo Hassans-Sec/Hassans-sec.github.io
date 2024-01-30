@@ -27,3 +27,4 @@ Hey👋, Welcome To My Cyber Security Blog I'm Hassan, I Post Different Hacking 
 * * *
 
 - [[jan 29 2024]] [TryHackMe -- Kenobi](https://hassans-sec.github.io/Posts/THM/Kenobi.html) `Linux`
+- [[jan 30 2024]] [TryHackMe -- Steel Mountain](https://hassans-sec.github.io/Posts/THM/Steel-Mountain.html) `Windows`
