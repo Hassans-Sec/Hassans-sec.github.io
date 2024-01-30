@@ -82,7 +82,9 @@ From some of the other search results i noticed some website said there is an ex
 ![](https://i.imgur.com/7N9yhzI.png)
 Then i set the needed options and run the module to get a Meterpreter shell
 ![](https://i.imgur.com/tTohvwL.png)
+
 checking information about the target system i have :
+
 ![](https://i.imgur.com/FuenHzR.png)
 ![](https://i.imgur.com/QdO5XPZ.png)
 ```bash
@@ -95,6 +97,7 @@ To enumerate this machine, i will use a powershell script called PowerUp, that's
 - "_PowerUp aims to be a clearinghouse of common Windows privilege escalation_ _vectors that rely on misconfigurations._"
 
 You can download the script [here](https://raw.githubusercontent.com/PowerShellMafia/PowerSploit/master/Privesc/PowerUp.ps1).  If you want to download it via the command line, be careful not to download the GitHub page instead of the raw script. Now you can use the **upload** command in Metasploit to upload the script.
+
 ![](https://i.imgur.com/faBcq6J.png)
 
 ```
