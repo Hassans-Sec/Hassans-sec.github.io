@@ -2,6 +2,7 @@
 ![](https://i.imgur.com/hc9C0Uq.png)
 
 - running a scan to know what is going on on our targets network
+  
 ## Scan results
 
 ```bash
