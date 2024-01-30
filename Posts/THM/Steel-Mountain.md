@@ -41,7 +41,6 @@ PORT      STATE SERVICE            VERSION
 49155/tcp open  msrpc              Microsoft Windows RPC
 49156/tcp open  msrpc              Microsoft Windows RPC
 Service Info: OSs: Windows, Windows Server 2008 R2 - 2012; CPE: cpe:/o:microsoft:windows
-
 Host script results:
 | smb-security-mode: 
 |   account_used: <blank>
