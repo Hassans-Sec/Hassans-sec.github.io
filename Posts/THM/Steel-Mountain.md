@@ -68,6 +68,7 @@ navigating to the web-server on port `80` i found a picture of the employee of t
 But when i view the page source i see where the web-server is serving that image from there backend server and the image is saved with a human name so it has to be `employee of the month` 
 ![](https://i.imgur.com/UM6jW86.png)
 - Nothing else to see from here so i navigate to the second web-server `8080`
+  
 ## Initial access
 
 ![](https://i.imgur.com/N2Mqb8e.png)
