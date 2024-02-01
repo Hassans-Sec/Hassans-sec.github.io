@@ -80,7 +80,8 @@ we only need to specify the ip and port and telnet will grab the banner which co
 ![](https://i.imgur.com/ZkHU5gw.png)
 
 #### Using nmap
-to use nmap we will use the exact nmap command from the last task task but change  the port `-p` from 80 to 22 :
+to use nmap we will use the exact nmap command from the last task task but change the port`-p` from 80 to 22:
+
 ![](https://i.imgur.com/aq8V2nw.png)
 
 
