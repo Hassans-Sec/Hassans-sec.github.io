@@ -178,3 +178,4 @@ i copied the advanced.exe file to the `Advanced SystemCare` directory then i sto
 ![](https://i.imgur.com/xwUYqGP.png)
 
 ## Thanks For Reading
+<button onclick="window.location.href='https://hassans-sec.github.io';">Back To Home</button>
