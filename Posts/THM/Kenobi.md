@@ -161,3 +161,4 @@ then i use the `strings` command to looks for human readable strings on a binary
 We copied the /bin/sh shell, called it uname, gave it the correct permissions and then put its location in our path. This meant that when the /usr/bin/menu binary was run, its using our path variable to find the "uname" binary.. Which is actually a version of /usr/sh, as well as this file being run as root it runs our shell as root!
 
 ## Thanks For Reading
+<button onclick="window.location.href='https://hassans-sec.github.io';">Back To Home</button>
