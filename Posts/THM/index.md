@@ -24,3 +24,4 @@ _TryHackMe is a browser-based cyber security training platform, with learning co
 - [[jan 30 2024]] [TryHackMe -- Steel Mountain](https://hassans-sec.github.io/Posts/THM/Steel-Mountain.html) `Windows`
 - [[feb 01 2024]] [TryHackMe -- Net Sec Challenge](https://hassans-sec.github.io/Posts/THM/Net-Sec-challenge.html) `Linux`
 - [[feb 02 2024]] [TryHackMe -- Vulnerability Capstone](https://hassans-sec.github.io/Posts/THM/Vulnerability-Capstone.html) `Linux`
+- [[jun 03 2024]] [TryHackMe -- Cold-VVars](https://hassans-sec.github.io/Posts/THM/Cold-VVars.html) `Linux` `tmux` `vim`
