@@ -1,4 +1,3 @@
-
 ---
 layout: default
 title: TryHackMe - TryHackMe is a browser-based cyber security training platform, with learning content covering all skill levels from the complete beginner to the seasoned hacker..
