@@ -47,6 +47,7 @@ Nmap done: 1 IP address (1 host up) scanned in 34.01 seconds
 - we have http 8080, 8082 and smb 139,445 services open. Let’s enumerate http first port 8080
 ![](https://i.imgur.com/h0VE5fk.png)
 it has a default `Apache` page so let `FUZZ` for directory:
+
 ```bash
 ❯ ffuf -u "http://10.10.144.47:8080/FUZZ" -w /usr/share/dirb/wordlists/common.txt -fc 403
 
@@ -78,10 +79,12 @@ index.php               [Status: 200, Size: 4, Words: 1, Lines: 1, Duration: 225
 :: Progress: [4614/4614] :: Job [1/1] :: 252 req/sec :: Duration: [0:00:21] :: Errors: 0 ::
 ```
 
+
 - visiting the `/dev` directory with a browser i got a `Forbidden` error:
 ![](https://i.imgur.com/f4tHEeZ.png)
 
 - Fuzzing for more hidden directories from the `/dev` directory and adding some extensions to fuzz with:
+
 ```bash
 ❯ ffuf -u http://10.10.144.47:8080/dev/FUZZ -w /usr/share/dirb/wordlists/common.txt -fc 403 -e .txt,.php,.bak
 
@@ -118,6 +121,7 @@ note.txt                [Status: 200, Size: 45, Words: 6, Lines: 2, Duration: 15
 ![](https://i.imgur.com/x4HAdF6.png)
 
 - Fuzzing for directories:
+
 ```bash
 ❯ ffuf -u http://10.10.144.47:8082/FUZZ -w /usr/share/wordlists/dirb/common.txt -fc 403 -e .txt,.bak,.php
 
