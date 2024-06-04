@@ -8,6 +8,7 @@ What is the first ingredient that Rick needs?
 ```
 - Let start by scanning the IP Address `10.10.54.104` with Nmap
 ### Nmap Results
+
 ```bash
 ┌──(kali㉿kali)-[~]
 └─$  nmap -A 10.10.54.104       
@@ -30,6 +31,7 @@ Service detection performed. Please report any incorrect results at https://nmap
 Nmap done: 1 IP address (1 host up) scanned in 67.43 seconds
 ```
 
+
 From the scan result i see a web server is running i.e`port 80` . Let check it out:
 ![webcheck](https://github.com/Hassans-Sec/Hassans-sec.github.io/assets/139691745/9762c829-963e-4d8a-8959-30a2a6dd5021)
 
@@ -37,6 +39,7 @@ There is nothing interesting on the web page so i decide to check the page sourc
 ![webchecksrc](https://github.com/Hassans-Sec/Hassans-sec.github.io/assets/139691745/0c53bc52-019b-488d-a6de-cfef08c6774d)
 
 and Boom i got a very important information(a username) from the HTML comment:
+
 ```html
   <!--
     Note to self, remember username!
@@ -46,6 +49,7 @@ and Boom i got a very important information(a username) from the HTML comment:
 
 Then i decided to brute-force for directories using gobuster and i also added some extension switch to the command:
 ### Gobuster result
+
 ```bash
 ┌──(kali㉿kali)-[/usr/share/wordlists/dirbuster]
 └─$ gobuster dir -u http://10.10.54.104 -w directory-list-2.3-medium.txt -x txt,html,css,cgi,php
@@ -72,10 +76,12 @@ Starting gobuster in directory enumeration mode
 /portal.php           (Status: 302) [Size: 0] [--> /login.php]
 /robots.txt           (Status: 200) [Size: 17]
 ```
+
 from the output, what i see that robot.txt is available so i use the browser to check if there is any disallow entries:
 ![robots](https://github.com/Hassans-Sec/Hassans-sec.github.io/assets/139691745/3aa58445-eff9-4fc0-a74a-94cde2ada7a2)
 
 this is strange robots.txt doesn't contain a string like this, but i note my findings:
+
 ```
 Wubbalubbadubdub
 ```
@@ -147,6 +153,7 @@ cat 3rd.txt
 3rd ingredients: fleeb juice <--- 
 root@ip-10-10-54-104:~# 
 ```
+
 lastly i moved to the /`home/rick` directory and found the second ingredient:
 ![ingredient2](https://github.com/Hassans-Sec/Hassans-sec.github.io/assets/139691745/f52eabb1-5017-4942-b107-8dbf24f59931)
 
