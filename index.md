@@ -33,6 +33,7 @@ Hey👋, Welcome To My Cyber Security Blog I'm Hassan, I Post Different Hacking 
 - [[feb 01 2024]] [TryHackMe -- Net Sec Challenge](https://hassans-sec.github.io/Posts/THM/Net-Sec-challenge.html) `Linux`
 - [[feb 02 2024]] [TryHackMe -- Vulnerability Capstone](https://hassans-sec.github.io/Posts/THM/Vulnerability-Capstone.html) `Linux`
 - [[jun 03 2024]] [TryHackMe -- Cold-VVars](https://hassans-sec.github.io/Posts/THM/Cold-VVars.html) `Linux` `tmux` `vim`
+- [[jun 04 2024]] [TryHackMe -- pickle-rick](https://hassans-sec.github.io/Posts/THM/Pickle-Rick.html) `Linux`
 
 
 
