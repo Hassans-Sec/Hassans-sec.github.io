@@ -2,7 +2,12 @@
 layout: default
 title: Home
 ---
-<h2 class="mume-header" id="mainindexhtml-nbspnbsp-contactcontacthtml"><a href="./index.html">Main</a>&#xA0;&#xA0;&#xA0;<a href="/Posts/THM/index.html">TryHackMe</a>&#xA0;&#xA0;&#xA0;<a href="/Posts/PwnTillDawn/index.html">PwnTillDawn</a></h2>
+<h2 class="mume-header" id="mainindexhtml-nbspnbsp-contactcontacthtml"><a
+href="../../index.html">Main</a>&#xA0;&#xA0;&#xA0;<a 
+href="/Posts/THM/index.html">TryHackMe</a>&#xA0;&#xA0;&#xA0;<a
+href="/Posts/HTB/index.html">HackTheBox</a>&#xA0;&#xA0;&#xA0;<a
+href="/Posts/PwnTillDawn/index.html">PwnTillDawn</a>&#xA0;&#xA0;&#xA0;</h2>
+<hr>
 <script src="https://tryhackme.com/badge/2189524"></script>
 
 * * *
@@ -35,6 +40,8 @@ Hey👋, Welcome To My Cyber Security Blog I'm Hassan, I Post Different Hacking 
 - [[jun 03 2024]] [TryHackMe -- Cold-VVars](https://hassans-sec.github.io/Posts/THM/Cold-VVars.html) `Linux` `tmux` `vim`
 - [[jun 04 2024]] [TryHackMe -- pickle-rick](https://hassans-sec.github.io/Posts/THM/Pickle-Rick.html) `Linux`
 - [[jun 12 2024]] [TryHackMe -- Mr-Robot-CTF](https://hassans-sec.github.io/Posts/THM/Mr-Robot-CTF.html) `Linux,SUID,bruteforce`
+- [[jun 12 2024]] [TryHackMe -- Crack-the-hash](https://hassans-sec.github.io/Posts/THM/Crack-the-hash.html) `hash,bash`
+- [[jun 12 2024]] [TryHackMe -- Wgel-CTF.html](https://hassans-sec.github.io/Posts/THM/Wgel-CTF.html) `wget,ssh`
 
 
 
@@ -42,11 +49,12 @@ Hey👋, Welcome To My Cyber Security Blog I'm Hassan, I Post Different Hacking 
 ### **HackTheBox Writeups:~#**
 * * *
 - [[apr 01 2024]] [HackTheBox -- Headless](https://hassans-sec.github.io/Posts/HTB/Headless.html) `Linux`
-
+- [[jun 12 2024]] [HackTheBox -- Devvortex](https://hassans-sec.github.io/Posts/HTB/Devvortex.html) `Linux,Joomla,apport-cli`
 
 
 * * *
 ### **PwnTillDawn Writeups:~#**
 * * *
-- [[JUN 1 2024]] [Portal](https://hassans-sec.github.io/Posts/PwnTillDawn/Portal.html) `Metasploit,` `FTP`
+- [[jun 1 2024]] [Portal](https://hassans-sec.github.io/Posts/PwnTillDawn/Portal.html) `Metasploit,` `FTP`
+
 
