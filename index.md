@@ -24,6 +24,7 @@ Hey👋, Welcome To My Cyber Security Blog I'm Hassan, I Post Different Hacking 
 <p><strong>Known as :</strong> <a href="#">Hassans_Sec</a></p>
 <p><strong>What Do I Do :</strong> <a href="#">CTF / Red Teaming / Penetration testing</a></p>
 <p><strong>GitHub :</strong> <a href="https://github.com/Hassans-Sec">github.com/Hassans-Sec</a></p>
+<p><strong>Linkedin :</strong> <a href="https://www.linkedin.com/in/hassankorodo/">linkedin.com/hassankorodo</a></p>
 <p><strong>Twitter :</strong> <a href="https://twitter.com/Hassans_Sec">twitter.com/Hassans_Sec</a></p>
 <br clear="left">
 <br clear="left">
