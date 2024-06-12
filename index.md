@@ -34,6 +34,7 @@ Hey👋, Welcome To My Cyber Security Blog I'm Hassan, I Post Different Hacking 
 - [[feb 02 2024]] [TryHackMe -- Vulnerability Capstone](https://hassans-sec.github.io/Posts/THM/Vulnerability-Capstone.html) `Linux`
 - [[jun 03 2024]] [TryHackMe -- Cold-VVars](https://hassans-sec.github.io/Posts/THM/Cold-VVars.html) `Linux` `tmux` `vim`
 - [[jun 04 2024]] [TryHackMe -- pickle-rick](https://hassans-sec.github.io/Posts/THM/Pickle-Rick.html) `Linux`
+- [[jun 12 2024]] [TryHackMe -- Mr-Robot-CTF](https://hassans-sec.github.io/Posts/THM/Mr-Robot-CTF.html) `Linux,SUID,bruteforce`
 
 
 
