@@ -3,7 +3,7 @@ layout: default
 title: HackTheBox - Hack The Box is a leading gamified cybersecurity upskilling, certification, and talent assessment software platform enabling individuals, businesses, government institutions, and universities to sharpen their offensive and defensive security expertise..
 ---
 
-<h2 class="mume-header" id="mainindexhtml-nbspnbsp-contactcontacthtml"><a 
+<h2 class="mume-header" id="mainindexhtml-nbspnbsp-contactcontacthtml"><a
 href="../../index.html">Main</a>&#xA0;&#xA0;&#xA0;<a 
 href="/Posts/THM/index.html">TryHackMe</a>&#xA0;&#xA0;&#xA0;<a
 href="/Posts/HTB/index.html">HackTheBox</a>&#xA0;&#xA0;&#xA0;<a
@@ -21,4 +21,5 @@ _Hack The Box is a leading gamified cybersecurity upskilling, certification, and
 <hr>
 
 
+- [[apr 01 2024]] [HackTheBox -- Headless](https://hassans-sec.github.io/Posts/HTB/Headless.html) `Linux`
 - [[jun 12 2024]] [HackTheBox -- Devvortex](https://hassans-sec.github.io/Posts/HTB/Devvortex.html) `Linux,Joomla,apport-cli`
