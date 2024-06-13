@@ -43,6 +43,7 @@ Hey👋, Welcome To My Cyber Security Blog I'm Hassan, I Post Different Hacking 
 - [[jun 12 2024]] [TryHackMe -- Mr-Robot-CTF](https://hassans-sec.github.io/Posts/THM/Mr-Robot-CTF.html) `Linux,SUID,bruteforce`
 - [[jun 12 2024]] [TryHackMe -- Crack-the-hash](https://hassans-sec.github.io/Posts/THM/Crack-the-hash.html) `hash,bash`
 - [[jun 12 2024]] [TryHackMe -- Wgel-CTF.html](https://hassans-sec.github.io/Posts/THM/Wgel-CTF.html) `wget,ssh`
+- [[jun 14 2024]] [TryHackMe -- Airplane](https://hassans-sec.github.io/Posts/THM/Airplane.html) `LFI,SUID,ChatGpt,ssh`
 
 
 
