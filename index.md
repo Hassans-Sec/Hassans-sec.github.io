@@ -42,8 +42,11 @@ Hey👋, Welcome To My Cyber Security Blog I'm Hassan, I Post Different Hacking 
 - [[jun 04 2024]] [TryHackMe -- pickle-rick](https://hassans-sec.github.io/Posts/THM/Pickle-Rick.html) `Linux`
 - [[jun 12 2024]] [TryHackMe -- Mr-Robot-CTF](https://hassans-sec.github.io/Posts/THM/Mr-Robot-CTF.html) `Linux,SUID,bruteforce`
 - [[jun 12 2024]] [TryHackMe -- Crack-the-hash](https://hassans-sec.github.io/Posts/THM/Crack-the-hash.html) `hash,bash`
-- [[jun 12 2024]] [TryHackMe -- Wgel-CTF.html](https://hassans-sec.github.io/Posts/THM/Wgel-CTF.html) `wget,ssh`
+- [[jun 12 2024]] [TryHackMe -- Wgel-CTF](https://hassans-sec.github.io/Posts/THM/Wgel-CTF.html) `wget,ssh`
 - [[jun 14 2024]] [TryHackMe -- Airplane](https://hassans-sec.github.io/Posts/THM/Airplane.html) `LFI,SUID,ChatGpt,ssh`
+- [[jun 18 2024]] [TryHackMe -- Attacktive-Directory](https://hassans-sec.github.io/Posts/THM/Attacktive-Directory.html) `AD,Kerbros,SMB`
+- [[jun 18 2024]] [TryHackMe -- LazyAdmin](https://hassans-sec.github.io/Posts/THM/LazyAdmin.html) `html,fuzz,enumeratio`
+- [[jun 19 2024]] [TryHackMe -- deathnote](https://hassans-sec.github.io/Posts/THM/deathnote.html) `Magic-byte,docker,ChatGpt,ssh`
 
 
 
